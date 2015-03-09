@@ -1,0 +1,5 @@
+Je n'ai pas mis les Nodes Modules ni les Bower components pour alléger le fichier
+Il y a donc 3 commandes : 
+$ npm update
+$ bower update 
+$ gulp watch

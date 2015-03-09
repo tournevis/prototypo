@@ -1,0 +1,9 @@
+{
+  "name": "yorouge",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.0",
+    "paper": "~0.9.20"
+  },
+  "devDependencies": {}
+}
